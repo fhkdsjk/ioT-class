@@ -1,6 +1,6 @@
 # ioT-class
 
-> -chap1
+> - chap1
 >    > * example 1_1  변수설정
 >    > * example 1_2 변수선언 및 할당
 >    > * example 1_3 불변성

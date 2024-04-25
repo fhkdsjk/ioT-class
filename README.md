@@ -22,6 +22,6 @@
 >    > * example 1_19 자동으로 undefine를 부여하는 경우
 >    > * example 1_20 undefine와 배열
 >    > * example 1_21 빈 요소와 배열의 순회
->    > * example 2_22 undefine과 null의 비교
+>    > * example 1_22 undefine과 null의 비교
 
 --------------------------------------------------------------------------------------

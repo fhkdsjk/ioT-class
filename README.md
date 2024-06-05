@@ -126,3 +126,39 @@
 >  > * example 5_17 커링 함수(1)
 >  > * example 5_18 커링 함수(2)
 
+-----------------------------------------------------------------------------------
+> * __chap6__
+>
+>
+>  > * example 6_1 Person.prototype
+>  > * example 6_2 prototype과 __proto__
+>  > * example 6_3 constructor 프로퍼티
+>  > * example 6_4 constructor 변경
+>  > * example 6_5 다양한 constructor 접근 방법
+>  > * example 6_6 메서드 오버라이드
+>  > * example 6_7 배열에서 배열 메서드 및 객체 메서드 실행
+>  > * example 6_8 메서드 오버라이드와 프로토타입 체이닝
+>  > * example 6_9 Object.prototype에 추가한 메서드에의 접근
+>  > * example 6_10 Grade 생성자 함수와 인스턴스
+
+-----------------------------------------------------------------------------------
+> * __chap7__
+>
+>
+>  > * example 7_1 스태틱 메서드, 프로토타입 메서드
+>  > * example 7_2 6-2-4절의 Grade 생성자 함수 및 인스턴스
+>  > * example 7_3 length 프로퍼티를 삭제한 경우
+>  > * example 7_4 요소가 있는 배열을 prototype에 매칭한 경우
+>  > * example 7_5 Rectangle, Square 클래스
+>  > * example 7_6 Square 클래스 변형
+>  > * example 7_7 Rectangle을 상속하는 Square 클래스
+>  > * example 7_8 클래스 상속 및 추상화 방법(1) - 인스턴스 생성 후 프로퍼티 제거
+>  > * example 7_8_2 더글라스 크락포드의 두 번째 방법
+>  > * example 7_9 클래스 상속 및 추상화 방법(2) - 빈 함수를 활용
+>  > * example 7_10 클래스 상속 및 추상화 방법(3) - Object.create 활용
+>  > * example 7_11 클래스 상속 및 추상화 방법 - 완성본(1) - 인스턴스 생성 후 프로퍼티 제거 - constructor 복구하기
+>  > * example 7_12 클래스 상속 및 추상화 방법 - 완성본(2) - 빈 함수를 활용
+>  > * example 7_13 클래스 상속 및 추상화 방법 - 완성본(3) - Object.create 활용
+>  > * example 7_14 상위 클래스 접근 수단인 super 메서드 추가
+>  > * example 7_15 ES5와 ES6의 클래스 문법 비교
+>  > * example 7_16 ES6의 클래스 상속
